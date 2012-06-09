@@ -1,0 +1,13 @@
+@charset 'utf-8';
+
+.ytg_player {
+	position : relative;
+}
+.ytg_player iframe {
+	position : absolute;
+	top : 0;
+	left : 0;
+}
+.ytg_thumbnails img {
+	cursor : pointer;
+}
